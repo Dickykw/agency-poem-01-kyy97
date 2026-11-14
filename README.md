@@ -34,3 +34,8 @@ Or using Node 22+ with TypeScript execution:
 ```bash
 node --import tsx main.ts
 ```
+
+## Why this poem
+
+"The Last Meter" achieved a simulated 78.2% win rate, performing as our highest-scoring entry above the competition cutoff. It targets the core theme of agency by illustrating the boundary between autonomous execution and human choice: an AI agent can solve complex logistical challenges—finding trains, comparing fares, booking tickets—yet ultimate human agency resides in taking the final emotional action ("It could get me to her street. / It could not make me knock."). Structurally, the poem progresses across four distinct stanzas: establishing the agent's frictionless digital execution, contrasting it with human emotional memory, capturing the pivot of human decision, and concluding on the fundamental limit of artificial agency.
+
